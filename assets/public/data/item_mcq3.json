@@ -1,0 +1,12 @@
+{
+  "type": "engage-mcq",
+  "meta": {
+    "markupPrimary": "###Listen to the audio given below and answer the question that follows:",
+    "audio": "Einstein-His-Life-and-Universe_sample.mp3",
+    "time": "1 day ago",
+    "attempts": 2,
+    "correctAnswer": 3,
+    "feedback": "Quantum theory explains the nature and behavior of matter and energy on the atomic and subatomic level."
+  },
+  "options": ["Gauge","Big Bang", "Quantum"]
+}

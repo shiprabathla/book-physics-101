@@ -1,0 +1,12 @@
+{
+  "type": "engage-mcq",
+  "meta": {
+    "markupPrimary": "###Zoology means",
+    "time": "1 day ago",
+    "attempts": 2,
+    "correctAnswer": 3,
+    "feedback": "Biology includes biochemistry, cell biology, zoology, ecology, and so on. Zoology is the study of animals."
+  },
+  "options": ["The study of some animals", "The study of the zoo.",
+    "The study of all animals."]
+}

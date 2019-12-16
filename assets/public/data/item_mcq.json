@@ -1,0 +1,14 @@
+{
+  "type": "engage-mcq",
+  "meta": {
+    "markupPrimary": "###Watch the video given below and choose the option that is TRUE?",
+    "video": "https://www.youtube.com/watch?v=Q_-yF-g84ug",
+    "markupSecondary": "Which theory tells us that both light and matter consists of tiny particles which have wavelike properties associated with them?",
+    "time": "1 day ago",
+    "attempts": 2,
+    "correctAnswer": 2,
+    "feedback": "Albert Einstein called Galileo the 'father of modern science.'"
+  },
+  "options": ["Albert Einstein is known as the \"father of science\".", "Galileo Galilei is known as the \"father of science\".",
+    "There is no \"father of science\"."]
+}
