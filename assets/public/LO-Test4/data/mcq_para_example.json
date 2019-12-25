@@ -1,0 +1,158 @@
+{
+  "leonardoId": "leonardo-dev-1553",
+  "type": "mcq",
+  "subType": "multiple-choice",
+  "status": "complete",
+  "displayType": "embedded",
+  "toolName": "paint",
+  "toolVersion": 1,
+  "systemMeta": {
+    "orgId": "leonardo-dev",
+    "state": "draft",
+    "revision": 1,
+    "created": {
+      "timestamp": "2019-09-03T05:38:18.168Z",
+      "userId": "be6d5f4a-46f9-11e8-83c3-0acad1ee5072"
+    },
+    "lastModified": {
+      "timestamp": "2019-09-04T12:57:42.535Z",
+      "userId": "be6d5f4a-46f9-11e8-83c3-0acad1ee5072"
+    },
+    "schemaVersion": 2,
+    "assetsBasePath": "https://s3.amazonaws.com/paint.leonardodls.com/organization_bucket/"
+  },
+  "itemMeta": {
+    "title": "Title",
+    "description": "Description",
+    "tags": {
+      "domain": "Engineering",
+      "difficulty": "Beginner",
+      "custom": [
+        ""
+      ]
+    },
+    "skill": "",
+    "learningObjective": ""
+  },
+  "itemBody": {
+    "instruction": {
+      "content": {
+        "type": "item-text",
+        "data": "Read the passage and answer the question given below:"
+      }
+    },
+    "content": {
+      "type": "item-xhtml",
+      "data": "<p style='padding: 0px 15px;'>At sun set Ram and Laxman come in a chariot with Vanar Sena. Ram shoots arrows at the effigies. The effigies catch fire and burn to ashes. Fireworks and crackers explode in the air. People in some areas of Rajasthan go to greet each other. Dussehra is a symbol of victory of good over evil.</p><h3 style='background: white; margin: 0px; padding: 15px;'  >The passage is about -</h3>"
+    },
+    "options": [
+      {
+        "id": "O1",
+        "content": {
+          "type": "item-text",
+          "data": "Chariot"
+        },
+        "feedback": {
+          "content": {
+            "type": "item-text",
+            "data": ""
+          }
+        }
+      },
+      {
+        "id": "O2",
+        "content": {
+          "type": "item-text",
+          "data": "Vanar Sena"
+        },
+        "feedback": {
+          "content": {
+            "type": "item-text",
+            "data": "Feedback B"
+          }
+        }
+      },
+      {
+        "id": "O3",
+        "content": {
+          "type": "item-text",
+          "data": "Dussehra"
+        },
+        "feedback": {
+          "content": {
+            "type": "item-text",
+            "data": "Feedback C"
+          }
+        }
+      }
+    ],
+    "validation": {
+      "matchingType": "id",
+      "score": 2,
+      "value": "O3"
+    },
+    "preferences": {
+      "shuffle": true,
+      "layout": {
+        "orientation": "vertical/horizontal"
+      }
+    },
+    "feedback": {
+      "general": {
+        "content": {
+          "type": "item-text",
+          "data": ""
+        }
+      },
+      "correct": {
+        "content": {
+          "type": "item-text",
+          "data": ""
+        }
+      },
+      "incorrect": {
+        "content": {
+          "type": "item-text",
+          "data": "The passage is about Dussehra."
+        }
+      }
+    },
+    "hints": [
+      {
+        "id": "H1",
+        "content": {
+          "type": "item-text",
+          "data": "It is a popular Hindu festival."
+        }
+      },
+      {
+        "id": "H2",
+        "content": {
+          "type": "item-text",
+          "data": "It symbolises victory of good over evil."
+        }
+      }
+    ]
+  },
+  "itemResources": {
+    "RE1": {
+      "type": "image",
+      "systemAttribs": {
+        "fileName": "initial.png",
+        "fileSize": 19785,
+        "uploadedOn": "2019-02-14T11:20:51.099Z"
+      },
+      "resourceInfo": {}
+    }
+  },
+  "itemResponse": {
+    "userResponse": {
+      "value": ""
+    },
+    "outcomes": {
+      "score": 0,
+      "status": ""
+    },
+    "consumedHints": []
+  }
+}

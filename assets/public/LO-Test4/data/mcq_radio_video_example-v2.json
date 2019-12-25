@@ -1,0 +1,160 @@
+{
+  "itemId": "leonardo-dev-1553",
+  "type": "mcq",
+  "subType": "multiple-choice",
+  "status": "complete",
+  "displayType": "embedded",
+  "toolName": "paint",
+  "toolVersion": 1,
+  "systemMeta": {
+    "orgId": "leonardo-dev",
+    "state": "draft",
+    "revision": 1,
+    "created": {
+      "timestamp": "2019-09-03T05:38:18.168Z",
+      "userId": "be6d5f4a-46f9-11e8-83c3-0acad1ee5072"
+    },
+    "lastModified": {
+      "timestamp": "2019-09-04T12:57:42.535Z",
+      "userId": "be6d5f4a-46f9-11e8-83c3-0acad1ee5072"
+    },
+    "schemaVersion": 2,
+    "assetsBasePath": "https://s3.amazonaws.com/paint.leonardodls.com/organization_bucket/"
+  },
+  "itemMeta": {
+    "title": "Title",
+    "description": "Description",
+    "tags": {
+      "domain": "Engineering",
+      "difficulty": "Beginner",
+      "custom": [
+        ""
+      ]
+    },
+    "skill": "",
+    "learningObjective": ""
+  },
+  "itemBody": {
+    "instruction": {
+      "content": {
+        "type": "item-text",
+        "data": "Watch the video given below and answer the question that follows:"
+      }
+    },
+    "content": {
+      "type": "item-xhtml",
+      "data": "<p style='width: 100%;text-align: center;'> <iframe src='https://www.youtube.com/embed/libKVRa01L8' style='min-width: 320px; max-width: 100%;'></iframe></p><h3 style='font-family: Roboto, sans-serif;    margin: 0px; padding: 10px; padding-left: 20px;background: #FFF'>Who is known as the \"father of science\" ?</h3>"
+    },
+    "options": [
+      {
+        "id": "O1",
+        "content": {
+          "type": "item-text",
+          "data": "Albert Einstein is known as the father of science."
+        },
+        "feedback": {
+          "content": {
+            "type": "item-text",
+            "data": ""
+          }
+        }
+      },
+      {
+        "id": "O2",
+        "content": {
+          "type": "item-text",
+          "data": "Galileo Galilei is known as the father of science."
+        },
+        "feedback": {
+          "content": {
+            "type": "item-text",
+            "data": "Feedback B"
+          }
+        }
+      },
+      {
+        "id": "O3",
+        "content": {
+          "type": "item-text",
+          "data": "Newton is known as the father of science."
+        },
+        "feedback": {
+          "content": {
+            "type": "item-text",
+            "data": "Feedback C"
+          }
+        }
+      }
+    ],
+    "validation": {
+      "matchingType": "id",
+      "score": 2,
+      "value": "O2"
+    },
+    "preferences": {
+      "shuffle": true,
+      "layout": {
+        "orientation": "vertical/horizontal"
+      }
+    },
+    "feedback": {
+      "general": {
+        "content": {
+          "type": "item-text",
+          "data": ""
+        }
+      },
+      "correct": {
+        "content": {
+          "type": "item-text",
+          "data": ""
+        }
+      },
+      "incorrect": {
+        "content": {
+          "type": "item-text",
+          "data": "Albert Einstein called Galileo the 'father of modern science."
+        }
+      }
+    },
+    "hints": [
+      {
+        "id": "H1",
+        "content": {
+          "type": "item-text",
+          "data": "He was born in Pisa, Italy, on the 15th of February 1564."
+        }
+      },
+      {
+        "id": "H2",
+        "content": {
+          "type": "item-text",
+          "data": "His father Vincenzo Galilei, was a composer and music theorist."
+        }
+      }
+    ]
+  },
+  "itemResources": {
+    "RE1": {
+      "type": "image",
+      "systemAttribs": {
+        "fileName": "initial.png",
+        "fileSize": 19785,
+        "uploadedOn": "2019-02-14T11:20:51.099Z"
+      },
+      "resourceInfo": {}
+    }
+  },
+  "itemResponse": {
+    "userResponse": {
+      "value": ""
+    },
+    "outcomes": {
+      "score": 2,
+      "status": "correct"
+    },
+    "consumedHints": [
+      "H1"
+    ]
+  }
+}
