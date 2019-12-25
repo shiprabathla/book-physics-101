@@ -1,0 +1,13 @@
+{
+    "type": "mcq",
+    "meta": {
+        "text": "What is the Capital of India?"
+    },
+    "options": [
+        "Mumbai",
+        "Kolkata",
+        "Chennai",
+        "New Delhi",
+        "Pune"
+    ]
+}
