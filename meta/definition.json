@@ -1593,8 +1593,8 @@
     "title": "Physics 101",
     "code": "biology_and_geology",
     "author": "Compro",
-    "thumbnailsmall": "BookCover.svg",
-    "thumbnaillarge": "BookCover.svg",
+    "thumbnailsmall": "BookCover.png",
+    "thumbnaillarge": "BookCover.png",
     "description": "",
     "producttype": "courseware",
     "model": {
