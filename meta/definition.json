@@ -1591,7 +1591,7 @@
   "meta": {
     "schema": 1,
     "title": "Physics 101",
-    "code": "biology_and_geology",
+    "code": "physics-101",
     "author": "Compro",
     "thumbnailsmall": "BookCover.png",
     "thumbnaillarge": "BookCover.png",
@@ -1600,7 +1600,7 @@
     "model": {
       "type": "engage-courseware",
       "style": "secondary-type-1",
-      "subject": "BIOLOGÍA Y GEOLOGÍA",
+      "subject": "Physics 101",
       "course": "3.º",
       "level": "ESO",
       "isbn": "978-84-675-7600-9",
