@@ -6,326 +6,16 @@
       }
     },
     "tags": {
-      "Prerequisites": {
-        "tags": {
-          "Torque": {
-            "tags": {}
-          },
-          "Transmission Ratio Optimization": {
-            "tags": {}
-          },
-          "Fundamentals of Dynamic Motion": {
-            "tags": {}
-          },
-          "How to Analyse a Rotary Load": {
-            "tags": {}
-          },
-          "Elementary Physics": {
-            "tags": {}
-          },
-          "Servo Motor Selection": {
-            "tags": {}
-          },
-          "Motion Profiles": {
-            "tags": {}
-          },
-          "Linear Loads": {
-            "tags": {}
-          }
-        }
+      "Reading": {
+        "tags": {}
       },
-      "Technical Elements": {
-        "tags": {
-          "Leonardo": {
-            "tags": {}
-          },
-          "Graph": {
-            "tags": {}
-          },
-          "Torque-Speed": {
-            "tags": {}
-          },
-          "Inertia Calculator": {
-            "tags": {}
-          },
-          "Equations": {
-            "tags": {}
-          }
-        }
+      "Videos": {
+        "tags": {}
       },
-      "Content Type": {
-        "tags": {
-          "Reading": {
-            "tags": {}
-          },
-          "Interactive Learning Element": {
-            "tags": {}
-          },
-          "Video": {
-            "tags": {}
-          },
-          "Practice": {
-            "tags": {}
-          },
-          "Assessments": {
-            "tags": {}
-          }
-        }
+      "Practice": {
+        "tags": {}
       },
-      "Biology": {
-        "tags": {
-          "Lab1": {
-            "tags": {}
-          }
-        }
-      },
-      "Learning Outcomes": {
-        "tags": {
-          "Impact of Coupling, Motor Inertia and Losses": {
-            "tags": {}
-          },
-          "Handle added Inertia & Losses": {
-            "tags": {}
-          },
-          "Torque Speed Requirement Vs Capability": {
-            "tags": {}
-          },
-          "Understand Mechanical Systems": {
-            "tags": {}
-          },
-          "Affect of Transmission Ratio on Motor": {
-            "tags": {}
-          },
-          "Building Motion Profiles": {
-            "tags": {}
-          },
-          "Calculate Torque-Speed Requirements": {
-            "tags": {}
-          },
-          "Evaluate Effects of Profile Shapes": {
-            "tags": {}
-          },
-          "Understand Fundamentals of Dynamic Motion": {
-            "tags": {}
-          },
-          "Evaluate a Rotary Load": {
-            "tags": {}
-          },
-          "Plot Torque-Speed of Motor": {
-            "tags": {}
-          },
-          "Analyzing Linear applications": {
-            "tags": {}
-          },
-          "Calculate Peak & Continuous Operating Points": {
-            "tags": {}
-          },
-          "Drive selection for Motor": {
-            "tags": {}
-          },
-          "Understand Linear & Rotary Motion": {
-            "tags": {}
-          },
-          "Understand Types of Transmission Systems": {
-            "tags": {}
-          }
-        }
-      },
-      "Level": {
-        "tags": {
-          "Advanced": {
-            "tags": {}
-          },
-          "Beginner": {
-            "tags": {}
-          },
-          "Intermediate": {
-            "tags": {}
-          }
-        }
-      },
-      "Subject-Topic": {
-        "tags": {
-          "Torque": {
-            "tags": {}
-          },
-          "Servo Axis": {
-            "tags": {}
-          },
-          "Torque-Speed Widget": {
-            "tags": {}
-          },
-          "Advanced profiles": {
-            "tags": {}
-          },
-          "Dump Resistors": {
-            "tags": {}
-          },
-          "Profile Widget": {
-            "tags": {}
-          },
-          "Peak Current": {
-            "tags": {}
-          },
-          "Braking Energy": {
-            "tags": {}
-          },
-          "Load Torque": {
-            "tags": {}
-          },
-          "RMS Acceleration": {
-            "tags": {}
-          },
-          "Inertia Calculator": {
-            "tags": {}
-          },
-          "Offset Loads": {
-            "tags": {}
-          },
-          "Rack & Pinion": {
-            "tags": {}
-          },
-          "Drive Architectures": {
-            "tags": {}
-          },
-          "SI Units": {
-            "tags": {}
-          },
-          "RMS Current": {
-            "tags": {}
-          },
-          "Motion Elements": {
-            "tags": {}
-          },
-          "External Torque": {
-            "tags": {}
-          },
-          "Servo Motor": {
-            "tags": {}
-          },
-          "Tangential Mechanisms": {
-            "tags": {}
-          },
-          "Trapezoidal Move": {
-            "tags": {}
-          },
-          "Longer Profiles": {
-            "tags": {}
-          },
-          "Mass": {
-            "tags": {}
-          },
-          "Torque-Speed Graph": {
-            "tags": {}
-          },
-          "Transmission Ratio": {
-            "tags": {}
-          },
-          "Screw-type Mechanism": {
-            "tags": {}
-          },
-          "Radian": {
-            "tags": {}
-          },
-          "Alternating Current": {
-            "tags": {}
-          },
-          "Inertia": {
-            "tags": {}
-          },
-          "Linear and Rotary Motion": {
-            "tags": {}
-          },
-          "Motion Profile": {
-            "tags": {}
-          },
-          "Advanced Course": {
-            "tags": {}
-          },
-          "Force": {
-            "tags": {}
-          },
-          "Motor Losses": {
-            "tags": {}
-          },
-          "Transmission Losses": {
-            "tags": {}
-          },
-          "Crest Factor": {
-            "tags": {}
-          },
-          "Electricity": {
-            "tags": {}
-          },
-          "Energy": {
-            "tags": {}
-          },
-          "Cosmatt Course": {
-            "tags": {}
-          },
-          "Voltage": {
-            "tags": {}
-          },
-          "Motion Equations": {
-            "tags": {}
-          },
-          "Motor Selection": {
-            "tags": {}
-          },
-          "Equivalent Radius Point": {
-            "tags": {}
-          },
-          "Inertia Ratio": {
-            "tags": {}
-          },
-          "Operating Points": {
-            "tags": {}
-          },
-          "Triangular Move": {
-            "tags": {}
-          },
-          "Motor Ratings": {
-            "tags": {}
-          },
-          "Advance Course": {
-            "tags": {}
-          },
-          "Ambient Temperature": {
-            "tags": {}
-          },
-          "Regeneration": {
-            "tags": {}
-          },
-          "Continuous Torque": {
-            "tags": {}
-          },
-          "External Force": {
-            "tags": {}
-          },
-          "Friction": {
-            "tags": {}
-          },
-          "RMS": {
-            "tags": {}
-          },
-          "Imperial Units": {
-            "tags": {}
-          },
-          "Index Profiles": {
-            "tags": {}
-          },
-          "Gearbox": {
-            "tags": {}
-          },
-          "Power": {
-            "tags": {}
-          },
-          "Altitude": {
-            "tags": {}
-          }
-        }
-      },
-      "Physics": {
+      "Test": {
         "tags": {}
       }
     }
@@ -333,84 +23,1553 @@
   "items": {
     "default": [
       {
+        "name": "Introduction to Physical Science",
         "item-type": "folder",
-        "name": "Study Materials",
+        "item-code": "Chapter_1_Introduction_Physical_Science",
         "sub-type": "default",
-        "item-code": "1577258768830",
         "items": [
           {
+            "name": "Nature of Science",
             "item-type": "folder",
-            "name": "Chapter 1",
+            "item-code": "Chapter_1_Introduction_Physical_Science/Chapter_1.1_Nature_of_Science",
             "sub-type": "default",
-            "item-code": "1577258768830/1577258832424",
             "items": [
               {
-                "item-type": "folder",
-                "name": "Unit 1",
-                "sub-type": "default",
-                "item-code": "1577258768830/1577258832424/1577258832425",
-                "items": [
-                  {
-                    "item-type": "resource",
-                    "resource": "RE_0001",
-                    "pass-score": 0.7,
-                    "contributes-to-completion": true,
-                    "name": "Summary",
-                    "tracking": true,
-                    "item-code": "1577258768830/1577258832424/1577258832425/1577258832426"
-                  },
-                  {
-                    "item-type": "resource",
-                    "resource": "RE_0002",
-                    "pass-score": 0.7,
-                    "contributes-to-completion": true,
-                    "name": "Test your understanding",
-                    "tracking": true,
-                    "item-code": "1577258768830/1577258832424/1577258832425/1577258832426"
-                  }
-                ]
+                "name": "Reading: What is Science?",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_1_Introduction_Physical_Science/Chapter_1.1_Nature_of_Science/Read",
+                "tracking": true,
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              },
+              {
+                "name": "Video: The Scientific Method",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_1_Introduction_Physical_Science/Chapter_1.1_Nature_of_Science/What_is_Science",
+                "tracking": true,
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              },
+              {
+                "name": "Video: Nature of Science",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_1_Introduction_Physical_Science/Chapter_1.1_Nature_of_Science/Nature_of_Science",
+                "tracking": true,
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              },
+              {
+                "name": "Test Your Understanding",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "tracking": true,
+                "item-code": "Chapter_1_Introduction_Physical_Science/Chapter_1.1_Nature_of_Science/Test_your_Understanding",
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              }
+            ]
+          },
+          {
+            "name": "Scientific Theory",
+            "item-type": "folder",
+            "item-code": "Chapter_1_Introduction_Physical_Science/Chapter_1.3_Scientific_Theory",
+            "sub-type": "default",
+            "items": [
+              {
+                "name": "Reading: Introduction to Scientific Theory",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_1_Introduction_Physical_Science/Chapter_1.3_Scientific_Theory/Read",
+                "tracking": true,
+                "description": "Systematic ideational structure is the",
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              },
+              {
+                "name": "Video: Difference Between a Scientific Law and Theory",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_1_Introduction_Physical_Science/Chapter_1.3_Scientific_Theory/Difference_Law_and_Theory",
+                "tracking": true,
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              },
+              {
+                "name": "Video: Why Science is NOT 'Just a Theory'",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_1_Introduction_Physical_Science/Chapter_1.3_Scientific_Theory/Why_Science_NOT_Just_Theory",
+                "tracking": true,
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              },
+              {
+                "name": "Video: What is a Scientific Theory?",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_1_Introduction_Physical_Science/Chapter_1.3_Scientific_Theory/What_is_Scientific_Theory",
+                "tracking": true,
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              },
+              {
+                "name": "Test Your Understanding",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "tracking": true,
+                "item-code": "Chapter_1_Introduction_Physical_Science/Chapter_1.3_Scientific_Theory/Test_your_Understanding",
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              }
+            ]
+          },
+          {
+            "name": "Inductive Reasoning",
+            "item-type": "folder",
+            "item-code": "Chapter_1_Introduction_Physical_Science/Chapter_1.2_Inductive_Reasoning",
+            "sub-type": "default",
+            "items": [
+              {
+                "name": "Reading: What is Inductive Reasoning?",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_1_Introduction_Physical_Science/Chapter_1.2_Inductive_Reasoning/Read",
+                "tracking": true,
+                "description": "Method of reasoning in which the indcutive",
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              },
+              {
+                "name": "Reading: It's a Mystery",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_1_Introduction_Physical_Science/Chapter_1.2_Inductive_Reasoning/Read2",
+                "tracking": true,
+                "description": "Method of reasoning in which the indcutive",
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              }
+            ]
+          },
+          {
+            "name": "Scientific Law",
+            "item-type": "folder",
+            "item-code": "Chapter_1_Introduction_Physical_Science/Chapter_1.4_Scientific_Law",
+            "sub-type": "default",
+            "items": [
+              {
+                "name": "Reading: Scientific Law",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_1_Introduction_Physical_Science/Chapter_1.4_Scientific_Law/Reading_Scientific_Law",
+                "tracking": true,
+                "description": "Does the word science makes you think of high-tech labs",
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              },
+              {
+                "name": "Video: Scientific Theories & Laws",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_1_Introduction_Physical_Science/Chapter_1.4_Scientific_Law/Scientific_Theories_&_Laws",
+                "tracking": true,
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              }
+            ]
+          },
+          {
+            "name": "History of Science",
+            "item-type": "folder",
+            "item-code": "Chapter_1_Introduction_Physical_Science/Chapter_1.5_History_of_Science",
+            "sub-type": "default",
+            "items": [
+              {
+                "name": "Reading: History of Science",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_1_Introduction_Physical_Science/Chapter_1.5_History_of_Science/Reading_History_of_Science",
+                "tracking": true,
+                "description": "Does the word science makes you think of high-tech labs",
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              },
+              {
+                "name": "Video: Lucky Discovery",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_1_Introduction_Physical_Science/Chapter_1.5_History_of_Science/Lucky_Discovery",
+                "tracking": true,
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              }
+            ]
+          },
+          {
+            "name": "Ethics in Science",
+            "item-type": "folder",
+            "item-code": "Chapter_1_Introduction_Physical_Science/Chapter_1.6_Ethics_in_Science",
+            "sub-type": "default",
+            "items": [
+              {
+                "name": "Reading: Ethics in Science",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_1_Introduction_Physical_Science/Chapter_1.6_Ethics_in_Science/Reading_History_of_Science",
+                "tracking": true,
+                "description": "Does the word science makes you think of high-tech labs",
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              },
+              {
+                "name": "Video: Copycats",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_1_Introduction_Physical_Science/Chapter_1.6_Ethics_in_Science/Copycats",
+                "tracking": true,
+                "contributes-to-completion": true,
+                "pass-score": 0.7
               }
             ]
           }
-        ]
+        ],
+        "description": "Intro to Physical Science"
+      },
+      {
+        "name": "Objects in Motion",
+        "item-type": "folder",
+        "item-code": "Chapter_2_Objects_in_Motion",
+        "sub-type": "default",
+        "items": [
+          {
+            "name": "Motion",
+            "item-type": "folder",
+            "item-code": "Chapter_2_Objects_in_Motion/Chapter_2.1_Motion",
+            "sub-type": "default",
+            "items": [
+              {
+                "name": "Reading: Motion",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_2_Objects_in_Motion/Chapter_2.1_Motion/Read",
+                "tracking": true,
+                "description": "Does the word science makes you think of high-tech labs",
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              },
+              {
+                "name": "Video: Relative Motion and Inertial Reference Frames",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_2_Objects_in_Motion/Chapter_2.1_Motion/Relative_Motion_and_Inertial_Reference_Frames",
+                "tracking": true,
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              },
+              {
+                "name": "Video: Reference Frames",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_2_Objects_in_Motion/Chapter_2.1_Motion/Reference_Frames",
+                "tracking": true,
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              },
+              {
+                "name": "Test Your Understanding: Do you understand Motion?",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "tracking": true,
+                "item-code": "Chapter_2_Objects_in_Motion/Chapter_2.1_Motion/Test_your_Understanding",
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              }
+            ]
+          },
+          {
+            "name": "Distance",
+            "item-type": "folder",
+            "item-code": "Chapter_2_Objects_in_Motion/Chapter_2.2_Distance",
+            "sub-type": "default",
+            "items": [
+              {
+                "name": "Reading: Distance",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_2_Objects_in_Motion/Chapter_2.2_Distance/Reading_Distance",
+                "tracking": true,
+                "description": "Does the word science makes you think of high-tech labs",
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              },
+              {
+                "name": "Video: Distance and Displacement",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_2_Objects_in_Motion/Chapter_2.2_Distance/Distance_and_Displacement",
+                "tracking": true,
+                "completed": false,
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              }
+            ]
+          },
+          {
+            "name": "Direction",
+            "item-type": "folder",
+            "item-code": "Chapter_2_Objects_in_Motion/Chapter_2.3_Direction",
+            "sub-type": "default",
+            "items": [
+              {
+                "name": "Reading: Direction",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_2_Objects_in_Motion/Chapter_2.3_Direction/Reading_Direction",
+                "tracking": true,
+                "description": "Does the word science makes you think of high-tech labs",
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              },
+              {
+                "name": "Video: Vectors",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_2_Objects_in_Motion/Chapter_2.3_Direction/Vectors",
+                "tracking": true,
+                "completed": false,
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              }
+            ]
+          },
+          {
+            "name": "Speed",
+            "item-type": "folder",
+            "item-code": "Chapter_2_Objects_in_Motion/Chapter_2.4_Speed",
+            "sub-type": "default",
+            "items": [
+              {
+                "name": "Reading: Speed",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_2_Objects_in_Motion/Chapter_2.4_Speed/Reading_Speed",
+                "tracking": true,
+                "description": "Does the word science makes you think of high-tech labs",
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              },
+              {
+                "name": "Video: Speed = Distance / Time - Overview",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_2_Objects_in_Motion/Chapter_2.4_Speed/Video_Speed",
+                "tracking": true,
+                "completed": false,
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              }
+            ]
+          },
+          {
+            "name": "Position vs. Time Graphs",
+            "item-type": "folder",
+            "item-code": "Chapter_2_Objects_in_Motion/Chapter_2.5_Position_vs_Time_Graphs",
+            "sub-type": "default",
+            "items": [
+              {
+                "name": "Reading: Position vs. Time Graphs",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_2_Objects_in_Motion/Chapter_2.5_Position_vs_Time_Graphs/Reading_Position_vs._Time Graphs",
+                "tracking": true,
+                "description": "Does the word science makes you think of high-tech labs",
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              },
+              {
+                "name": "Video: Position, Displacement, and Graphing",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_2_Objects_in_Motion/Chapter_2.5_Position_vs_Time_Graphs/Video_Position,_Displacement,_and_Graphing",
+                "tracking": true,
+                "completed": false,
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              }
+            ]
+          },
+          {
+            "name": "Velocity",
+            "item-type": "folder",
+            "item-code": "Chapter_2_Objects_in_Motion/Chapter_2.6_Velocity",
+            "sub-type": "default",
+            "items": [
+              {
+                "name": "Reading: Velocity",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_2_Objects_in_Motion/Chapter_2.6_Velocity/Reading_Velocity",
+                "tracking": true,
+                "description": "Does the word science makes you think of high-tech labs",
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              },
+              {
+                "name": "Video: What is Velocity?",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_2_Objects_in_Motion/Chapter_2.6_Velocity/What_is_Velocity?",
+                "tracking": true,
+                "completed": false,
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              }
+            ]
+          }
+        ],
+        "description": "Objects in Motion"
+      },
+      {
+        "name": "Forces",
+        "item-type": "folder",
+        "item-code": "Chapter_3_Forces",
+        "sub-type": "default",
+        "items": [
+          {
+            "name": "Force",
+            "item-type": "folder",
+            "item-code": "Chapter_3_Forces/Chapter_3.1_Force",
+            "sub-type": "default",
+            "items": [
+              {
+                "name": "Reading: Force",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_3_Forces/Chapter_3.1_Force/Reading_Force",
+                "tracking": true,
+                "description": "Does the word science makes you think of high-tech labs",
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              },
+              {
+                "name": "Video: What is Force?",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_3_Forces/Chapter_3.1_Force/What_is_Force?",
+                "tracking": true,
+                "completed": false,
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              }
+            ]
+          },
+          {
+            "name": "Combining Forces",
+            "item-type": "folder",
+            "item-code": "Chapter_3_Forces/Chapter_3.2_Combining_Forces",
+            "sub-type": "default",
+            "items": [
+              {
+                "name": "Reading: Combining Forces",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_3_Forces/Chapter_3.2_Combining_Forces/Reading_Combining_Forces",
+                "tracking": true,
+                "description": "Does the word science makes you think of high-tech labs",
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              },
+              {
+                "name": "Video: Newton's Laws",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_3_Forces/Chapter_3.2_Combining_Forces/Newton's_Laws",
+                "tracking": true,
+                "completed": false,
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              }
+            ]
+          },
+          {
+            "name": "Elastic Force",
+            "item-type": "folder",
+            "item-code": "Chapter_3_Forces/Chapter_3.3_Elastic_Force",
+            "sub-type": "default",
+            "items": [
+              {
+                "name": "Reading: Elastic Force",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_3_Forces/Chapter_3.3_Elastic_Force/Reading_Elastic_Force",
+                "tracking": true,
+                "description": "Does the word science makes you think of high-tech labs",
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              },
+              {
+                "name": "Video: Stretching an Elastic Band",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_3_Forces/Chapter_3.3_Elastic_Force/Stretching_an_Elastic_Band",
+                "tracking": true,
+                "completed": false,
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              }
+            ]
+          },
+          {
+            "name": "Friction",
+            "item-type": "folder",
+            "item-code": "Chapter_3_Forces/Chapter_3.4_Friction",
+            "sub-type": "default",
+            "items": [
+              {
+                "name": "Reading: Friction",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_3_Forces/Chapter_3.4_Friction/Reading_Friction",
+                "tracking": true,
+                "description": "Does the word science makes you think of high-tech labs",
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              },
+              {
+                "name": "Video: What is Friction?",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_3_Forces/Chapter_3.4_Friction/What_is_Friction?",
+                "tracking": true,
+                "completed": false,
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              }
+            ]
+          },
+          {
+            "name": "Types of Friction",
+            "item-type": "folder",
+            "item-code": "Chapter_3_Forces/Chapter_3.5_Types_of_Friction",
+            "sub-type": "default",
+            "items": [
+              {
+                "name": "Reading: Types of Friction",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_3_Forces/Chapter_3.5_Types_of_Friction/Reading_Types_of_Friction",
+                "tracking": true,
+                "description": "Does the word science makes you think of high-tech labs",
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              },
+              {
+                "name": "Video: Friction is a Force",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_3_Forces/Chapter_3.5_Types_of_Friction/Friction_is_a_Force",
+                "tracking": true,
+                "completed": false,
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              }
+            ]
+          },
+          {
+            "name": "Gravity",
+            "item-type": "folder",
+            "item-code": "Chapter_3_Forces/Chapter_3.6_Gravity",
+            "sub-type": "default",
+            "items": [
+              {
+                "name": "Reading: Gravity",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_3_Forces/Chapter_3.6_Gravity/Reading_Gravity",
+                "tracking": true,
+                "description": "Does the word science makes you think of high-tech labs",
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              },
+              {
+                "name": "Video: Is There Gravity in Space?",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_3_Forces/Chapter_3.6_Gravity/Is_There_Gravity_in_Space?",
+                "tracking": true,
+                "completed": false,
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              }
+            ]
+          }
+        ],
+        "description": "Forces"
+      },
+      {
+        "name": "Newton's Laws of Motion",
+        "item-type": "folder",
+        "item-code": "Chapter_4_Newton's_Laws_of_Motion",
+        "sub-type": "default",
+        "items": [
+          {
+            "name": "Newton's First Law",
+            "item-type": "folder",
+            "item-code": "Chapter_4_Newton's_Laws_of_Motion/Chapter_4.1_Newton's_First_Law",
+            "sub-type": "default",
+            "items": [
+              {
+                "name": "Reading: Newton's First Law",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_4_Newton's_Laws_of_Motion/Chapter_4.1_Newton's_First_Law/Reading_Newton's_First_Law",
+                "tracking": true,
+                "description": "Does the word science makes you think of high-tech labs",
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              },
+              {
+                "name": "Video: Newton's First Law of Motion",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_4_Newton's_Laws_of_Motion/Chapter_4.1_Newton's_First_Law/Newton's_First_Law_of_Motion",
+                "tracking": true,
+                "completed": false,
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              }
+            ]
+          },
+          {
+            "name": "Inertia",
+            "item-type": "folder",
+            "item-code": "Chapter_4_Newton's_Laws_of_Motion/Chapter_4.2_Inertia",
+            "sub-type": "default",
+            "items": [
+              {
+                "name": "Reading: Inertia",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_4_Newton's_Laws_of_Motion/Chapter_4.2_Inertia/Reading_Inertia",
+                "tracking": true,
+                "description": "Does the word science makes you think of high-tech labs",
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              },
+              {
+                "name": "Video: Understanding Inertia is Very Simple!! Experiment Video",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_4_Newton's_Laws_of_Motion/Chapter_4.2_Inertia/Understanding_Inertia_is_Very_Simple",
+                "tracking": true,
+                "completed": false,
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              }
+            ]
+          },
+          {
+            "name": "Newton's Second Law",
+            "item-type": "folder",
+            "item-code": "Chapter_4_Newton's_Laws_of_Motion/Chapter_4.3_Newton's_Second_Law",
+            "sub-type": "default",
+            "items": [
+              {
+                "name": "Reading: Newton's Second Law",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_4_Newton's_Laws_of_Motion/Chapter_4.3_Newton's_Second_Law/Reading_Newton's_Second_Law",
+                "tracking": true,
+                "description": "Does the word science makes you think of high-tech labs",
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              },
+              {
+                "name": "Video: Newton's Second Law of Motion",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_4_Newton's_Laws_of_Motion/Chapter_4.3_Newton's_Second_Law/Newton's_Second_Law_of_Motion",
+                "tracking": true,
+                "completed": false,
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              }
+            ]
+          },
+          {
+            "name": "Calculating Acceleration from Force and Mass",
+            "item-type": "folder",
+            "item-code": "Chapter_4_Newton's_Laws_of_Motion/Chapter_4.4_Calculating_Acceleration_from_Force_and_Mass",
+            "sub-type": "default",
+            "items": [
+              {
+                "name": "Reading: Calculating Acceleration from Force and Mass",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_4_Newton's_Laws_of_Motion/Chapter_4.4_Calculating_Acceleration_from_Force_and_Mass/Reading_Calculating_Acceleration_from_Force_and_Mass",
+                "tracking": true,
+                "description": "Does the word science makes you think of high-tech labs",
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              },
+              {
+                "name": "Video: Accelerating Mass: F=ma",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_4_Newton's_Laws_of_Motion/Chapter_4.4_Calculating_Acceleration_from_Force_and_Mass/Accelerating_Mass",
+                "tracking": true,
+                "completed": false,
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              }
+            ]
+          },
+          {
+            "name": "Weight",
+            "item-type": "folder",
+            "item-code": "Chapter_4_Newton's_Laws_of_Motion/Chapter_4.5_Weight",
+            "sub-type": "default",
+            "items": [
+              {
+                "name": "Reading: Weight",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_4_Newton's_Laws_of_Motion/Chapter_4.5_Weight/Reading_Weight",
+                "tracking": true,
+                "description": "Does the word science makes you think of high-tech labs",
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              },
+              {
+                "name": "Video: The Mass Vs Weight Song",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_4_Newton's_Laws_of_Motion/Chapter_4.5_Weight/The_Mass_Vs_Weight_Song",
+                "tracking": true,
+                "completed": false,
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              }
+            ]
+          },
+          {
+            "name": "Newton's Third Law",
+            "item-type": "folder",
+            "item-code": "Chapter_4_Newton's_Laws_of_Motion/Chapter_4.6_Newton's_Third_Law",
+            "sub-type": "default",
+            "items": [
+              {
+                "name": "Reading: Newton's Third Law",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_4_Newton's_Laws_of_Motion/Chapter_4.6_Newton's_Third_Law/Reading_Newton's_Third_Law",
+                "tracking": true,
+                "description": "Does the word science makes you think of high-tech labs",
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              },
+              {
+                "name": "Video: Bill Nye and Newton's Third Law",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_4_Newton's_Laws_of_Motion/Chapter_4.6_Newton's_Third_Law/Bill_Nye_and_Newton's_Third_Law",
+                "tracking": true,
+                "completed": false,
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              }
+            ]
+          },
+          {
+            "name": "Momentum",
+            "item-type": "folder",
+            "item-code": "Chapter_4_Newton's_Laws_of_Motion/Chapter_4.7_Momentum",
+            "sub-type": "default",
+            "items": [
+              {
+                "name": "Reading: Momentum",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_4_Newton's_Laws_of_Motion/Chapter_4.7_Momentum/Reading_Momentum",
+                "tracking": true,
+                "description": "Does the word science makes you think of high-tech labs",
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              },
+              {
+                "name": "Video: Science of NFL Football",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_4_Newton's_Laws_of_Motion/Chapter_4.7_Momentum/Science_of_NFL_Football",
+                "tracking": true,
+                "completed": false,
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              }
+            ]
+          }
+        ],
+        "description": "Newton's Laws of Motion"
+      },
+      {
+        "name": "Fluid Forces",
+        "item-type": "folder",
+        "item-code": "Chapter_5_Fluid_Forces",
+        "sub-type": "default",
+        "items": [
+          {
+            "name": "Fluid Pressure",
+            "item-type": "folder",
+            "item-code": "Chapter_5_Fluid_Forces/Chapter_5.1_Fluid_Pressure",
+            "sub-type": "default",
+            "items": [
+              {
+                "name": "Reading: Fluid Pressure",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_5_Fluid_Forces/Chapter_5.1_Fluid_Pressure/Reading_Fluid_Pressure",
+                "tracking": true,
+                "description": "Does the word science makes you think of high-tech labs",
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              },
+              {
+                "name": "Video: Pump It Up",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_5_Fluid_Forces/Chapter_5.1_Fluid_Pressure/Pump_It_Up",
+                "tracking": true,
+                "completed": false,
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              }
+            ]
+          },
+          {
+            "name": "Oceanic Pressure",
+            "item-type": "folder",
+            "item-code": "Chapter_5_Fluid_Forces/Chapter_5.2_Oceanic_Pressure",
+            "sub-type": "default",
+            "items": [
+              {
+                "name": "Reading: Oceanic Pressure",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_5_Fluid_Forces/Chapter_5.2_Oceanic_Pressure/Reading_Oceanic_Pressure",
+                "tracking": true,
+                "description": "Does the word science makes you think of high-tech labs",
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              },
+              {
+                "name": "Video: Underwater Pressure on the Body",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_5_Fluid_Forces/Chapter_5.2_Oceanic_Pressure/Underwater_Pressure_on_the_Body",
+                "tracking": true,
+                "completed": false,
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              }
+            ]
+          },
+          {
+            "name": "Air Pressure and Altitude",
+            "item-type": "folder",
+            "item-code": "Chapter_5_Fluid_Forces/Chapter_5.3_Air_Pressure_and_Altitude",
+            "sub-type": "default",
+            "items": [
+              {
+                "name": "Reading: Air Pressure and Altitude",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_5_Fluid_Forces/Chapter_5.3_Air_Pressure_and_Altitude/Reading_Air_Pressure_and_Altitude",
+                "tracking": true,
+                "description": "Does the word science makes you think of high-tech labs",
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              },
+              {
+                "name": "Video: How Heavy is Air?",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_5_Fluid_Forces/Chapter_5.3_Air_Pressure_and_Altitude/How_Heavy_is_Air?",
+                "tracking": true,
+                "completed": false,
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              }
+            ]
+          },
+          {
+            "name": "Pascal's Law",
+            "item-type": "folder",
+            "item-code": "Chapter_5_Fluid_Forces/Chapter_5.4_Pascal's_Law",
+            "sub-type": "default",
+            "items": [
+              {
+                "name": "Reading: Pascal's Law",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_5_Fluid_Forces/Chapter_5.4_Pascal's_Law/Reading_Pascal's_Law",
+                "tracking": true,
+                "description": "Does the word science makes you think of high-tech labs",
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              },
+              {
+                "name": "Video: Pascal's Law",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_5_Fluid_Forces/Chapter_5.4_Pascal's_Law/Pascal's_Law",
+                "tracking": true,
+                "completed": false,
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              }
+            ]
+          },
+          {
+            "name": "Bernoulli's Law",
+            "item-type": "folder",
+            "item-code": "Chapter_5_Fluid_Forces/Chapter_5.5_Bernoulli's_Law",
+            "sub-type": "default",
+            "items": [
+              {
+                "name": "Reading: Bernoulli's Law",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_5_Fluid_Forces/Chapter_5.5_Bernoulli's_Law/Reading_Bernoulli's_Law",
+                "tracking": true,
+                "description": "Does the word science makes you think of high-tech labs",
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              },
+              {
+                "name": "Video: Bernoulli's Principle Experiment",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_5_Fluid_Forces/Chapter_5.5_Bernoulli's_Law/Bernoulli's_Principle_Experiment",
+                "tracking": true,
+                "completed": false,
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              }
+            ]
+          },
+          {
+            "name": "Buoyancy",
+            "item-type": "folder",
+            "item-code": "Chapter_5_Fluid_Forces/Chapter_5.6_Buoyancy",
+            "sub-type": "default",
+            "items": [
+              {
+                "name": "Reading: Buoyancy",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_5_Fluid_Forces/Chapter_5.6_Buoyancy/Reading_Buoyancy",
+                "tracking": true,
+                "description": "Does the word science makes you think of high-tech labs",
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              },
+              {
+                "name": "Video: Why Does Ice Float in Water?",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_5_Fluid_Forces/Chapter_5.6_Buoyancy/Why_Does_Ice_Float_in_Water?",
+                "tracking": true,
+                "completed": false,
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              }
+            ]
+          },
+          {
+            "name": "Archimedes' Law",
+            "item-type": "folder",
+            "item-code": "Chapter_5_Fluid_Forces/Chapter_5.7_Archimedes'_Law",
+            "sub-type": "default",
+            "items": [
+              {
+                "name": "Reading: Archimedes' Law",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_5_Fluid_Forces/Chapter_5.7_Archimedes'_Law/Reading_Archimedes'_Law",
+                "tracking": true,
+                "description": "Does the word science makes you think of high-tech labs",
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              },
+              {
+                "name": "Video: The Real Story Behind Archimedes’ Eureka!",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_5_Fluid_Forces/Chapter_5.7_Archimedes'_Law/The_Real_Story_Behind_Archimedes’_Eureka!",
+                "tracking": true,
+                "completed": false,
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              }
+            ]
+          }
+        ],
+        "description": "Fluid Forces"
+      },
+      {
+        "name": "Work and Machines",
+        "item-type": "folder",
+        "item-code": "Chapter_6_Work_and_Machines",
+        "sub-type": "default",
+        "items": [
+          {
+            "name": "Work",
+            "item-type": "folder",
+            "item-code": "Chapter_6_Work_and_Machines/Chapter_6.1_Work",
+            "sub-type": "default",
+            "items": [
+              {
+                "name": "Reading: Work",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_6_Work_and_Machines/Chapter_6.1_Work/Reading_Work",
+                "tracking": true,
+                "description": "Does the word science makes you think of high-tech labs",
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              },
+              {
+                "name": "Video: Energy, Work and Power",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_6_Work_and_Machines/Chapter_6.1_Work/Energy,_Work_and_Power",
+                "tracking": true,
+                "completed": false,
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              }
+            ]
+          },
+          {
+            "name": "Calculating Work",
+            "item-type": "folder",
+            "item-code": "Chapter_6_Work_and_Machines/Chapter_6.2_Calculating_Work",
+            "sub-type": "default",
+            "items": [
+              {
+                "name": "Reading: Calculating Work",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_6_Work_and_Machines/Chapter_6.2_Calculating_Work/Reading_Calculating_Work",
+                "tracking": true,
+                "description": "Does the word science makes you think of high-tech labs",
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              },
+              {
+                "name": "Reading: Slapshot",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_6_Work_and_Machines/Chapter_6.2_Calculating_Work/Slapshot",
+                "tracking": true,
+                "completed": false,
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              }
+            ]
+          },
+          {
+            "name": "Power",
+            "item-type": "folder",
+            "item-code": "Chapter_6_Work_and_Machines/Chapter_6.3_Power",
+            "sub-type": "default",
+            "items": [
+              {
+                "name": "Reading: Power",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_6_Work_and_Machines/Chapter_6.3_Power/Reading_Power",
+                "tracking": true,
+                "description": "Does the word science makes you think of high-tech labs",
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              },
+              {
+                "name": "Video: Work and Power",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_6_Work_and_Machines/Chapter_6.3_Power/Work_and_Power",
+                "tracking": true,
+                "completed": false,
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              }
+            ]
+          },
+          {
+            "name": "Machine",
+            "item-type": "folder",
+            "item-code": "Chapter_6_Work_and_Machines/Chapter_6.4_Machine",
+            "sub-type": "default",
+            "items": [
+              {
+                "name": "Reading: Machine",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_6_Work_and_Machines/Chapter_6.4_Machine/Reading_Machine",
+                "tracking": true,
+                "description": "Does the word science makes you think of high-tech labs",
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              },
+              {
+                "name": "Video: Work and Simple Machines",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_6_Work_and_Machines/Chapter_6.4_Machine/Work_and_Simple_Machines",
+                "tracking": true,
+                "completed": false,
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              }
+            ]
+          },
+          {
+            "name": "Efficiency",
+            "item-type": "folder",
+            "item-code": "Chapter_6_Work_and_Machines/Chapter_6.5_Efficiency",
+            "sub-type": "default",
+            "items": [
+              {
+                "name": "Reading: Efficiency",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_6_Work_and_Machines/Chapter_6.5_Efficiency/Reading_Efficiency",
+                "tracking": true,
+                "description": "Does the word science makes you think of high-tech labs",
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              },
+              {
+                "name": "Video: Efficiency Calculation",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_6_Work_and_Machines/Chapter_6.5_Efficiency/Efficiency_Calculation",
+                "tracking": true,
+                "completed": false,
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              }
+            ]
+          },
+          {
+            "name": "Mechanical Advantage",
+            "item-type": "folder",
+            "item-code": "Chapter_6_Work_and_Machines/Chapter_6.6_Mechanical_Advantage",
+            "sub-type": "default",
+            "items": [
+              {
+                "name": "Reading: Mechanical Advantage",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_6_Work_and_Machines/Chapter_6.6_Mechanical_Advantage/Reading_Mechanical_Advantage",
+                "tracking": true,
+                "description": "Does the word science makes you think of high-tech labs",
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              },
+              {
+                "name": "Video: Mechanical Advantage",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_6_Work_and_Machines/Chapter_6.6_Mechanical_Advantage/Mechanical_Advantage",
+                "tracking": true,
+                "completed": false,
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              }
+            ]
+          }
+        ],
+        "description": "Work and Machines"
+      },
+      {
+        "name": "Introduction to Energy",
+        "item-type": "folder",
+        "item-code": "Chapter_7_Introduction_to_Energy",
+        "sub-type": "default",
+        "items": [
+          {
+            "name": "Energy",
+            "item-type": "folder",
+            "item-code": "Chapter_7_Introduction_to_Energy/Chapter_7.1_Energy",
+            "sub-type": "default",
+            "items": [
+              {
+                "name": "Reading: Energy",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_7_Introduction_to_Energy/Chapter_7.1_Energy/Reading_Energy",
+                "tracking": true,
+                "description": "Does the word science makes you think of high-tech labs",
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              },
+              {
+                "name": "Video: World's Most Asked Questions: What Is Energy?",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_7_Introduction_to_Energy/Chapter_7.1_Energy/World's_Most_Asked_Questions:_What_Is_Energy?",
+                "tracking": true,
+                "completed": false,
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              }
+            ]
+          },
+          {
+            "name": "Kinetic Energy",
+            "item-type": "folder",
+            "item-code": "Chapter_7_Introduction_to_Energy/Chapter_7.2_Kinetic_Energy",
+            "sub-type": "default",
+            "items": [
+              {
+                "name": "Reading: Kinetic Energy",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_7_Introduction_to_Energy/Chapter_7.2_Kinetic_Energy/Reading_Kinetic_Energy",
+                "tracking": true,
+                "description": "Does the word science makes you think of high-tech labs",
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              },
+              {
+                "name": "Video: Kinetic Energy: An Explanation",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_7_Introduction_to_Energy/Chapter_7.2_Kinetic_Energy/Kinetic_Energy:_An_Explanation",
+                "tracking": true,
+                "completed": false,
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              }
+            ]
+          },
+          {
+            "name": "Potential Energy",
+            "item-type": "folder",
+            "item-code": "Chapter_7_Introduction_to_Energy/Chapter_7.3_Potential_Energy",
+            "sub-type": "default",
+            "items": [
+              {
+                "name": "Reading: Potential Energy",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_7_Introduction_to_Energy/Chapter_7.3_Potential_Energy/Reading_Potential_Energy",
+                "tracking": true,
+                "description": "Does the word science makes you think of high-tech labs",
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              },
+              {
+                "name": "Video: Potential and Kinetic Energy",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_7_Introduction_to_Energy/Chapter_7.3_Potential_Energy/Potential_and_Kinetic_Energy",
+                "tracking": true,
+                "completed": false,
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              }
+            ]
+          },
+          {
+            "name": "Forms of Energy",
+            "item-type": "folder",
+            "item-code": "Chapter_7_Introduction_to_Energy/Chapter_7.4_Forms_of_Energy",
+            "sub-type": "default",
+            "items": [
+              {
+                "name": "Reading: Forms of Energy",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_7_Introduction_to_Energy/Chapter_7.4_Forms_of_Energy/Reading_Forms_of_Energy",
+                "tracking": true,
+                "description": "Does the word science makes you think of high-tech labs",
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              },
+              {
+                "name": "Video: Different Forms of Energy",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_7_Introduction_to_Energy/Chapter_7.4_Forms_of_Energy/Different_Forms_of_Energy",
+                "tracking": true,
+                "completed": false,
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              }
+            ]
+          },
+          {
+            "name": "Energy Conversion",
+            "item-type": "folder",
+            "item-code": "Chapter_7_Introduction_to_Energy/Chapter_7.5_Energy_Conversion",
+            "sub-type": "default",
+            "items": [
+              {
+                "name": "Reading: Energy Conversion",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_7_Introduction_to_Energy/Chapter_7.5_Energy_Conversion/Reading_Energy_Conversion",
+                "tracking": true,
+                "description": "Does the word science makes you think of high-tech labs",
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              },
+              {
+                "name": "Video: Energy Transformations",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_7_Introduction_to_Energy/Chapter_7.5_Energy_Conversion/Energy_Transformations",
+                "tracking": true,
+                "completed": false,
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              }
+            ]
+          },
+          {
+            "name": "Nonrenewable Energy Resources",
+            "item-type": "folder",
+            "item-code": "Chapter_7_Introduction_to_Energy/Chapter_7.6_Nonrenewable_Energy_Resources",
+            "sub-type": "default",
+            "items": [
+              {
+                "name": "Reading: Nonrenewable Energy Resources",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_7_Introduction_to_Energy/Chapter_7.6_Nonrenewable_Energy_Resources/Reading_Nonrenewable_Energy_Resources",
+                "tracking": true,
+                "description": "Does the word science makes you think of high-tech labs",
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              },
+              {
+                "name": "Video: Stop Motion Film: Renewable vs NonRenewable Energy Sources",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_7_Introduction_to_Energy/Chapter_7.6_Nonrenewable_Energy_Resources/Stop_Motion_Film:_Renewable_vs_NonRenewable_Energy_Sources",
+                "tracking": true,
+                "completed": false,
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              }
+            ]
+          }
+        ],
+        "description": "Introduction to Energy"
+      },
+      {
+        "name": "Thermal Energy and Heat",
+        "item-type": "folder",
+        "item-code": "Chapter_8_Thermal_Energy_and_Heat",
+        "sub-type": "default",
+        "items": [
+          {
+            "name": "Thermal Energy",
+            "item-type": "folder",
+            "item-code": "Chapter_8_Thermal_Energy_and_Heat/Chapter_8.1_Thermal_Energy",
+            "sub-type": "default",
+            "items": [
+              {
+                "name": "Reading: Thermal Energy",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_8_Thermal_Energy_and_Heat/Chapter_8.1_Thermal_Energy/Reading_Thermal_Energy",
+                "tracking": true,
+                "description": "Does the word science makes you think of high-tech labs",
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              },
+              {
+                "name": "Video: Heat, Temperature, and Thermal Energy",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_8_Thermal_Energy_and_Heat/Chapter_8.1_Thermal_Energy/Heat,_Temperature,_and_Thermal_Energy",
+                "tracking": true,
+                "completed": false,
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              }
+            ]
+          },
+          {
+            "name": "Temperature",
+            "item-type": "folder",
+            "item-code": "Chapter_8_Thermal_Energy_and_Heat/Chapter_8.2_Temperature",
+            "sub-type": "default",
+            "items": [
+              {
+                "name": "Reading: Temperature",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_8_Thermal_Energy_and_Heat/Chapter_8.2_Temperature/Reading_2_Temperature",
+                "tracking": true,
+                "description": "Does the word science makes you think of high-tech labs",
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              },
+              {
+                "name": "Video: Thermal Energy vs Temperature",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_8_Thermal_Energy_and_Heat/Chapter_8.2_Temperature/Thermal_Energy_vs_Temperature",
+                "tracking": true,
+                "completed": false,
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              }
+            ]
+          },
+          {
+            "name": "Heat",
+            "item-type": "folder",
+            "item-code": "Chapter_8_Thermal_Energy_and_Heat/Chapter_8.3_Heat",
+            "sub-type": "default",
+            "items": [
+              {
+                "name": "Reading: Heat",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_8_Thermal_Energy_and_Heat/Chapter_8.3_Heat/Reading_Heat",
+                "tracking": true,
+                "description": "Does the word science makes you think of high-tech labs",
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              },
+              {
+                "name": "Video: Heat Energy",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_8_Thermal_Energy_and_Heat/Chapter_8.3_Heat/Heat_Energy",
+                "tracking": true,
+                "completed": false,
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              }
+            ]
+          },
+          {
+            "name": "Specific Heat",
+            "item-type": "folder",
+            "item-code": "Chapter_8_Thermal_Energy_and_Heat/Chapter_8.4_Specific_Heat",
+            "sub-type": "default",
+            "items": [
+              {
+                "name": "Reading: Specific Heat",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_8_Thermal_Energy_and_Heat/Chapter_8.4_Specific_Heat/Reading_Specific_Heat",
+                "tracking": true,
+                "description": "Does the word science makes you think of high-tech labs",
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              },
+              {
+                "name": "Video: Specific Heat",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_8_Thermal_Energy_and_Heat/Chapter_8.4_Specific_Heat/Specific_Heat",
+                "tracking": true,
+                "completed": false,
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              }
+            ]
+          },
+          {
+            "name": "Conduction",
+            "item-type": "folder",
+            "item-code": "Chapter_8_Thermal_Energy_and_Heat/Chapter_8.5_Conduction",
+            "sub-type": "default",
+            "items": [
+              {
+                "name": "Reading: Conduction",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_8_Thermal_Energy_and_Heat/Chapter_8.5_Conduction/Reading_Conduction",
+                "tracking": true,
+                "description": "Does the word science makes you think of high-tech labs",
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              },
+              {
+                "name": "Video: Conduction of Heat",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_8_Thermal_Energy_and_Heat/Chapter_8.5_Conduction/Conduction_of_Heat",
+                "tracking": true,
+                "completed": false,
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              }
+            ]
+          },
+          {
+            "name": "Convection",
+            "item-type": "folder",
+            "item-code": "Chapter_8_Thermal_Energy_and_Heat/Chapter_8.6_Convection",
+            "sub-type": "default",
+            "items": [
+              {
+                "name": "Reading: Convection",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_8_Thermal_Energy_and_Heat/Chapter_8.6_Convection/Reading_Convection",
+                "tracking": true,
+                "description": "Does the word science makes you think of high-tech labs",
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              },
+              {
+                "name": "Video: Convection",
+                "item-type": "resource",
+                "resource": "RE_0001",
+                "item-code": "Chapter_8_Thermal_Energy_and_Heat/Chapter_8.6_Convection/Convection",
+                "tracking": true,
+                "completed": false,
+                "contributes-to-completion": true,
+                "pass-score": 0.7
+              }
+            ]
+          }
+        ],
+        "description": "Thermal Energy and Heat"
       }
     ]
   },
-  "meta": {
-    "schema": 1,
-    "code": "test_product_1234",
-    "author": "Admin cosmattpub1",
-    "description": "",
-    "ext_product_id": "",
-    "title": "Test product",
-    "short-description": "",
-    "version": 1,
-    "producttype": "courseware",
-    "thumbnaillarge": "",
-    "paths": {
-      "public-assets": "https://cdn1.comprodls.com/cosmatt1-qa/products/test_product_1234/1/assets",
-      "secured-assets": "https://s3.amazonaws.com/comprodls/cosmatt1-qa/products/test_product_1234/1/assets",
-      "public-submissions": "https://cdn-userdata.comprodls.com/submissions/compro/test_product_1234",
-      "secured-submissions": "https://comprodls-userdata.s3.amazonaws.com/submissions/compro/test_product_1234"
-    },
-    "context": "standard",
-    "thumbnailsmall": "",
-    "pipelineversion": 1,
-    "status": "un-published",
-    "group": "817d453f-26e8-11ea-b1ec-0e34ffe5d91e"
-  },
   "resources": {
-    "ebook": {},
-    "test": {},
     "generic": {
       "RE_0001": {
         "learning-objectives": [
           "Learning Objective 1"
         ],
         "description": "",
-        "sub-type": "md",
-        "md": {
-          "url": "Test.md"
+        "sub-type": "default",
+        "interaction-type": "practice",
+        "ext-cup-xapiscoreable": {
+          "url": "LO-1"
+        },
+        "attribs": {
+          "model": {
+            "total-score": "25",
+            "question-count": "5",
+            "instruction-text": "some text here"
+          }
         },
         "tags": []
       },
@@ -419,12 +1578,35 @@
           "Learning Objective 1"
         ],
         "description": "",
-        "sub-type": "ext-cup-xapiscoreable",
-        "ext-cup-xapiscoreable": {
-          "url": "https://assessment-int-content.s3.us-east-2.amazonaws.com/lo-test-4"
+        "sub-type": "default",
+        "html": {
+          "url": ""
         },
         "tags": []
       }
+    },
+    "test": {},
+    "ebook": {}
+  },
+  "meta": {
+    "schema": 1,
+    "title": "Physics 101",
+    "code": "biology_and_geology",
+    "author": "Compro",
+    "thumbnailsmall": "BookCover.svg",
+    "thumbnaillarge": "BookCover.svg",
+    "description": "",
+    "producttype": "courseware",
+    "model": {
+      "type": "engage-courseware",
+      "style": "secondary-type-1",
+      "subject": "BIOLOGÍA Y GEOLOGÍA",
+      "course": "3.º",
+      "level": "ESO",
+      "isbn": "978-84-675-7600-9",
+      "series": "BREZO (SAVIA)",
+      "booktitle": "CK-12 Physical Science",
+      "booksubtitle": "For Middle School"
     }
   }
 }
