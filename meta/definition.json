@@ -1458,7 +1458,7 @@
           "Learning Objective 1"
         ],
         "description": "",
-        "sub-type": "default",
+        "sub-type": "ext-cup-xapiscoreable",
         "interaction-type": "practice",
         "ext-cup-xapiscoreable": {
           "url": "LO-1"
@@ -1477,9 +1477,9 @@
           "Learning Objective 1"
         ],
         "description": "",
-        "sub-type": "default",
+        "sub-type": "html",
         "html": {
-          "url": ""
+          "url": "LO-2"
         },
         "tags": []
       }
