@@ -29,6 +29,16 @@ var consumerConfig = {
           "libs-player-ui-components"
         ]
       },
+      "mcsr-block": {
+        "baseURL": "https://sm.sdk.leonardodls.com/modules/mcq-block-player/releases/",
+        "version": "0.13.0",
+        "js": "0.13.0/libs-mcsr-item-player",
+        "dependencies": [
+          "react",
+          "react-dom",
+          "libs-player-ui-components"
+        ]
+      },
       "fib-dnd": {
         "baseURL": "https://sm.sdk.leonardodls.com/modules/fib-dnd-player/releases/",
         "version": "0.18.0",
