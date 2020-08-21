@@ -37,7 +37,7 @@
               {
                 "name": "Reading: What is Science?",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0002",
                 "item-code": "2234567891001/2234567891001/2234567891001",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -1487,7 +1487,7 @@
         "description": "",
         "sub-type": "html",
         "html": {
-          "url": ""
+          "url": "LO-2"
         },
         "tags": []
       }
