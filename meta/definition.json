@@ -46,7 +46,7 @@
               {
                 "name": "Video: The Scientific Method",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0003",
                 "item-code": "2234567891001/2234567891001/2234567891002",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -55,7 +55,7 @@
               {
                 "name": "Video: Nature of Science",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0004",
                 "item-code": "2234567891001/2234567891001/2234567891003",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -81,7 +81,7 @@
               {
                 "name": "Reading: Introduction to Scientific Theory",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891001/2234567891002/2234567891002",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -90,7 +90,7 @@
               {
                 "name": "Video: Difference Between a Scientific Law and Theory",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891001/2234567891002/2234567891003",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -99,7 +99,7 @@
               {
                 "name": "Video: Why Science is NOT 'Just a Theory'",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891001/2234567891002/2234567891004",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -108,7 +108,7 @@
               {
                 "name": "Video: What is a Scientific Theory?",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891001/2234567891002/2234567891005",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -117,7 +117,7 @@
               {
                 "name": "Test Your Understanding",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "tracking": true,
                 "item-code": "2234567891001/2234567891002/2234567891006",
                 "contributes-to-completion": true,
@@ -134,7 +134,7 @@
               {
                 "name": "Reading: What is Inductive Reasoning?",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891001/2234567891003/2234567891003",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -143,7 +143,7 @@
               {
                 "name": "Reading: It's a Mystery",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891001/2234567891003/2234567891004",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -160,7 +160,7 @@
               {
                 "name": "Reading: Scientific Law",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891001/2234567891004/2234567891004",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -169,7 +169,7 @@
               {
                 "name": "Video: Scientific Theories & Laws",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891001/2234567891004/2234567891005",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -186,7 +186,7 @@
               {
                 "name": "Reading: History of Science",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891001/2234567891005/2234567891005",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -195,7 +195,7 @@
               {
                 "name": "Video: Lucky Discovery",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891001/2234567891005/2234567891006",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -212,7 +212,7 @@
               {
                 "name": "Reading: Ethics in Science",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891001/2234567891006/2234567891006",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -221,7 +221,7 @@
               {
                 "name": "Video: Copycats",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891001/2234567891006/2234567891007",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -247,7 +247,7 @@
               {
                 "name": "Reading: Motion",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891002/2234567891002/2234567891002",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -256,7 +256,7 @@
               {
                 "name": "Video: Relative Motion and Inertial Reference Frames",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891002/2234567891002/2234567891003",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -265,7 +265,7 @@
               {
                 "name": "Video: Reference Frames",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891002/2234567891002/2234567891004",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -274,7 +274,7 @@
               {
                 "name": "Test Your Understanding: Do you understand Motion?",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "tracking": true,
                 "item-code": "2234567891002/2234567891002/2234567891005",
                 "contributes-to-completion": true,
@@ -291,7 +291,7 @@
               {
                 "name": "Reading: Distance",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891002/2234567891003/2234567891003",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -300,7 +300,7 @@
               {
                 "name": "Video: Distance and Displacement",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891002/2234567891003/2234567891004",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -317,7 +317,7 @@
               {
                 "name": "Reading: Direction",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891002/2234567891004/2234567891004",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -326,7 +326,7 @@
               {
                 "name": "Video: Vectors",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891002/2234567891004/2234567891005",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -343,7 +343,7 @@
               {
                 "name": "Reading: Speed",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891002/2234567891005/2234567891005",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -352,7 +352,7 @@
               {
                 "name": "Video: Speed = Distance / Time - Overview",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891002/2234567891005/2234567891006",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -369,7 +369,7 @@
               {
                 "name": "Reading: Position vs. Time Graphs",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891002/2234567891006/2234567891006",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -378,7 +378,7 @@
               {
                 "name": "Video: Position, Displacement, and Graphing",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891002/2234567891006/2234567891007",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -395,7 +395,7 @@
               {
                 "name": "Reading: Velocity",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891002/2234567891007/2234567891007",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -404,7 +404,7 @@
               {
                 "name": "Video: What is Velocity?",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891002/2234567891007/2234567891008",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -430,7 +430,7 @@
               {
                 "name": "Reading: Force",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891003/2234567891003/2234567891003",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -439,7 +439,7 @@
               {
                 "name": "Video: What is Force?",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891003/2234567891003/2234567891004",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -456,7 +456,7 @@
               {
                 "name": "Reading: Combining Forces",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891003/2234567891004/2234567891004",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -465,7 +465,7 @@
               {
                 "name": "Video: Newton's Laws",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891003/2234567891004/2234567891005",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -482,7 +482,7 @@
               {
                 "name": "Reading: Elastic Force",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891003/2234567891005/2234567891005",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -491,7 +491,7 @@
               {
                 "name": "Video: Stretching an Elastic Band",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891003/2234567891005/2234567891006",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -508,7 +508,7 @@
               {
                 "name": "Reading: Friction",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891003/2234567891006/2234567891006",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -517,7 +517,7 @@
               {
                 "name": "Video: What is Friction?",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891003/2234567891006/2234567891007",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -534,7 +534,7 @@
               {
                 "name": "Reading: Types of Friction",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891003/2234567891007/2234567891007",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -543,7 +543,7 @@
               {
                 "name": "Video: Friction is a Force",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891003/2234567891007/2234567891008",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -560,7 +560,7 @@
               {
                 "name": "Reading: Gravity",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891003/2234567891008/2234567891008",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -569,7 +569,7 @@
               {
                 "name": "Video: Is There Gravity in Space?",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891003/2234567891008/2234567891009",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -595,7 +595,7 @@
               {
                 "name": "Reading: Newton's First Law",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891004/2234567891004/2234567891004",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -604,7 +604,7 @@
               {
                 "name": "Video: Newton's First Law of Motion",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891004/2234567891004/2234567891005",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -621,7 +621,7 @@
               {
                 "name": "Reading: Inertia",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891004/2234567891005/2234567891005",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -630,7 +630,7 @@
               {
                 "name": "Video: Understanding Inertia is Very Simple!! Experiment Video",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891004/2234567891005/2234567891006",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -647,7 +647,7 @@
               {
                 "name": "Reading: Newton's Second Law",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891004/2234567891006/2234567891006",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -656,7 +656,7 @@
               {
                 "name": "Video: Newton's Second Law of Motion",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891004/2234567891006/2234567891007",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -673,7 +673,7 @@
               {
                 "name": "Reading: Calculating Acceleration from Force and Mass",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891004/2234567891007/2234567891007",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -682,7 +682,7 @@
               {
                 "name": "Video: Accelerating Mass: F=ma",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891004/2234567891007/2234567891008",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -699,7 +699,7 @@
               {
                 "name": "Reading: Weight",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891004/2234567891008/2234567891008",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -708,7 +708,7 @@
               {
                 "name": "Video: The Mass Vs Weight Song",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891004/2234567891008/2234567891009",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -725,7 +725,7 @@
               {
                 "name": "Reading: Newton's Third Law",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891004/2234567891009/2234567891009",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -734,7 +734,7 @@
               {
                 "name": "Video: Bill Nye and Newton's Third Law",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891004/2234567891009/2234567891010",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -751,7 +751,7 @@
               {
                 "name": "Reading: Momentum",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891004/2234567891010/2234567891010",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -760,7 +760,7 @@
               {
                 "name": "Video: Science of NFL Football",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891004/2234567891010/2234567891011",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -786,7 +786,7 @@
               {
                 "name": "Reading: Fluid Pressure",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891005/2234567891005/2234567891005",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -795,7 +795,7 @@
               {
                 "name": "Video: Pump It Up",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891005/2234567891005/2234567891006",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -812,7 +812,7 @@
               {
                 "name": "Reading: Oceanic Pressure",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891005/2234567891006/2234567891006",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -821,7 +821,7 @@
               {
                 "name": "Video: Underwater Pressure on the Body",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891005/2234567891006/2234567891007",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -838,7 +838,7 @@
               {
                 "name": "Reading: Air Pressure and Altitude",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891005/2234567891007/2234567891007",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -847,7 +847,7 @@
               {
                 "name": "Video: How Heavy is Air?",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891005/2234567891007/2234567891008",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -864,7 +864,7 @@
               {
                 "name": "Reading: Pascal's Law",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891005/2234567891008/2234567891008",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -873,7 +873,7 @@
               {
                 "name": "Video: Pascal's Law",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891005/2234567891008/2234567891009",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -890,7 +890,7 @@
               {
                 "name": "Reading: Bernoulli's Law",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891005/2234567891009/2234567891009",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -899,7 +899,7 @@
               {
                 "name": "Video: Bernoulli's Principle Experiment",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891005/2234567891009/2234567891010",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -916,7 +916,7 @@
               {
                 "name": "Reading: Buoyancy",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891005/2234567891010/2234567891010",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -925,7 +925,7 @@
               {
                 "name": "Video: Why Does Ice Float in Water?",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891005/2234567891010/2234567891011",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -942,7 +942,7 @@
               {
                 "name": "Reading: Archimedes' Law",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891005/2234567891011/2234567891011",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -951,7 +951,7 @@
               {
                 "name": "Video: The Real Story Behind Archimedes’ Eureka!",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891005/2234567891011/2234567891012",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -977,7 +977,7 @@
               {
                 "name": "Reading: Work",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891006/2234567891006/2234567891006",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -986,7 +986,7 @@
               {
                 "name": "Video: Energy, Work and Power",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891006/2234567891006/2234567891007",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -1003,7 +1003,7 @@
               {
                 "name": "Reading: Calculating Work",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891006/2234567891007/2234567891007",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -1012,7 +1012,7 @@
               {
                 "name": "Reading: Slapshot",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891006/2234567891007/2234567891008",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -1029,7 +1029,7 @@
               {
                 "name": "Reading: Power",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891006/2234567891008/2234567891008",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -1038,7 +1038,7 @@
               {
                 "name": "Video: Work and Power",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891006/2234567891008/2234567891009",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -1055,7 +1055,7 @@
               {
                 "name": "Reading: Machine",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891006/2234567891009/2234567891009",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -1064,7 +1064,7 @@
               {
                 "name": "Video: Work and Simple Machines",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891006/2234567891009/2234567891010",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -1081,7 +1081,7 @@
               {
                 "name": "Reading: Efficiency",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891006/2234567891010/2234567891010",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -1090,7 +1090,7 @@
               {
                 "name": "Video: Efficiency Calculation",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891006/2234567891010/2234567891011",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -1107,7 +1107,7 @@
               {
                 "name": "Reading: Mechanical Advantage",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891006/2234567891011/2234567891011",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -1116,7 +1116,7 @@
               {
                 "name": "Video: Mechanical Advantage",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891006/2234567891011/2234567891012",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -1142,7 +1142,7 @@
               {
                 "name": "Reading: Energy",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891007/2234567891007/2234567891007",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -1151,7 +1151,7 @@
               {
                 "name": "Video: World's Most Asked Questions: What Is Energy?",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891007/2234567891007/2234567891008",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -1168,7 +1168,7 @@
               {
                 "name": "Reading: Kinetic Energy",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891007/2234567891008/2234567891008",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -1177,7 +1177,7 @@
               {
                 "name": "Video: Kinetic Energy: An Explanation",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891007/2234567891008/2234567891009",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -1194,7 +1194,7 @@
               {
                 "name": "Reading: Potential Energy",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891007/2234567891009/2234567891009",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -1203,7 +1203,7 @@
               {
                 "name": "Video: Potential and Kinetic Energy",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891007/2234567891009/2234567891010",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -1220,7 +1220,7 @@
               {
                 "name": "Reading: Forms of Energy",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891007/2234567891010/2234567891010",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -1229,7 +1229,7 @@
               {
                 "name": "Video: Different Forms of Energy",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891007/2234567891010/2234567891011",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -1246,7 +1246,7 @@
               {
                 "name": "Reading: Energy Conversion",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891007/2234567891011/2234567891011",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -1255,7 +1255,7 @@
               {
                 "name": "Video: Energy Transformations",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891007/2234567891011/2234567891012",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -1272,7 +1272,7 @@
               {
                 "name": "Reading: Nonrenewable Energy Resources",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891007/2234567891012/2234567891012",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -1281,7 +1281,7 @@
               {
                 "name": "Video: Stop Motion Film: Renewable vs NonRenewable Energy Sources",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891007/2234567891012/2234567891013",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -1307,7 +1307,7 @@
               {
                 "name": "Reading: Thermal Energy",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891008/2234567891008/2234567891008",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -1316,7 +1316,7 @@
               {
                 "name": "Video: Heat, Temperature, and Thermal Energy",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891008/2234567891008/2234567891009",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -1333,7 +1333,7 @@
               {
                 "name": "Reading: Temperature",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891008/2234567891009/2234567891009",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -1342,7 +1342,7 @@
               {
                 "name": "Video: Thermal Energy vs Temperature",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891008/2234567891009/2234567891010",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -1359,7 +1359,7 @@
               {
                 "name": "Reading: Heat",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891008/2234567891010/2234567891010",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -1368,7 +1368,7 @@
               {
                 "name": "Video: Heat Energy",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891008/2234567891010/2234567891011",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -1385,7 +1385,7 @@
               {
                 "name": "Reading: Specific Heat",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891008/2234567891011/2234567891011",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -1394,7 +1394,7 @@
               {
                 "name": "Video: Specific Heat",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891008/2234567891011/2234567891012",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -1411,7 +1411,7 @@
               {
                 "name": "Reading: Conduction",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891008/2234567891012/2234567891012",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -1420,7 +1420,7 @@
               {
                 "name": "Video: Conduction of Heat",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891008/2234567891012/2234567891013",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -1437,7 +1437,7 @@
               {
                 "name": "Reading: Convection",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891008/2234567891013/2234567891013",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -1446,7 +1446,7 @@
               {
                 "name": "Video: Convection",
                 "item-type": "resource",
-                "resource": "RE_0001",
+                "resource": "RE_0000",
                 "item-code": "2234567891008/2234567891013/2234567891014",
                 "tracking": true,
                 "contributes-to-completion": true,
@@ -1488,6 +1488,39 @@
         "sub-type": "html",
         "html": {
           "url": "LO-2"
+        },
+        "tags": []
+      },
+      "RE_0003": {
+        "learning-objectives": [
+          "Learning Objective 1"
+        ],
+        "description": "",
+        "sub-type": "html",
+        "html": {
+          "url": "LO-3"
+        },
+        "tags": []
+      },
+      "RE_0004": {
+        "learning-objectives": [
+          "Learning Objective 1"
+        ],
+        "description": "",
+        "sub-type": "html",
+        "html": {
+          "url": "LO-4"
+        },
+        "tags": []
+      },
+      "RE_0000": {
+        "learning-objectives": [
+          "Learning Objective 1"
+        ],
+        "description": "",
+        "sub-type": "default",
+        "html": {
+          "url": ""
         },
         "tags": []
       }
