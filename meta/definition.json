@@ -1539,7 +1539,7 @@
     "producttype": "courseware",
     "model": {
       "type": "engage-type-A",
-      "style": "secondary-type-1",
+      "style": "theme4",
       "subject": "Physics 101",
       "course": "3.º",
       "level": "ESO",
