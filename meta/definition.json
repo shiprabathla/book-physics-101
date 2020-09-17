@@ -1538,7 +1538,7 @@
     "description": "",
     "producttype": "courseware",
     "model": {
-      "type": "engage-courseware",
+      "type": "engage-type-A",
       "style": "secondary-type-1",
       "subject": "Physics 101",
       "course": "3.º",
